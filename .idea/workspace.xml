@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3debf790-25f0-44e4-ac7e-78042edff0df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_carrotsearch_hppc_0_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_carrotsearch_thirdparty_simple_xml_safe_2_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_spotbugs_spotbugs_annotations_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_spullara_mustache_java_compiler_0_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_tdunning_t_digest_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_minio_minio_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_logstash_logback_logstash_logback_encoder_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_backward_codecs_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_grouping_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_join_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_memory_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_misc_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial3d_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_extras_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_suggest_8_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_16_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_client_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_high_level_client_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_cli_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_core_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_geo_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_secure_sm_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_elasticsearch_x_content_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_jna_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_aggs_matrix_stats_client_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_lang_mustache_client_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_mapper_extras_client_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_parent_join_client_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_rank_eval_client_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_elasticsearch_plugin_transport_netty4_client_7_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_sync_4_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_elasticsearch_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_elasticsearch_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_3_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_3_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_3_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/mall-admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/MallAdminApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/bo/AdminUserDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/config/GlobalCorsConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/config/MallSecurityConfig$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/config/MallSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/config/MyBatisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/config/OssConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/CmsPrefrenceAreaController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/CmsSubjectController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/MinioController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/OmsCompanyAddressController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/OmsOrderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/OmsOrderReturnApplyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/OmsOrderReturnReasonController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/OmsOrderSettingController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/OssController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/PmsBrandController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/PmsProductAttributeCategoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/PmsProductAttributeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/PmsProductCategoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/PmsProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/PmsSkuStockController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/SmsCouponController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/SmsCouponHistoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/SmsFlashPromotionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/SmsFlashPromotionProductRelationController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/SmsFlashPromotionSessionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/SmsHomeAdvertiseController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/SmsHomeBrandController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/SmsHomeNewProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/SmsHomeRecommendProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/SmsHomeRecommendSubjectController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/UmsAdminController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/UmsMemberLevelController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/UmsMenuController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/UmsResourceCategoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/UmsResourceController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/controller/UmsRoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/CmsPrefrenceAreaProductRelationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/CmsSubjectProductRelationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/OmsOrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/OmsOrderOperateHistoryDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/OmsOrderReturnApplyDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/PmsMemberPriceDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/PmsProductAttributeCategoryDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/PmsProductAttributeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/PmsProductAttributeValueDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/PmsProductCategoryAttributeRelationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/PmsProductCategoryDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/PmsProductDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/PmsProductFullReductionDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/PmsProductLadderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/PmsProductVertifyRecordDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/PmsSkuStockDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/SmsCouponDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/SmsCouponProductCategoryRelationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/SmsCouponProductRelationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/SmsFlashPromotionProductRelationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/UmsAdminRoleRelationDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dao/UmsRoleDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/BucketPolicyConfigDto$BucketPolicyConfigDtoBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/BucketPolicyConfigDto$Statement$StatementBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/BucketPolicyConfigDto$Statement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/BucketPolicyConfigDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/MinioUploadDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/OmsMoneyInfoParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/OmsOrderDeliveryParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/OmsOrderDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/OmsOrderQueryParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/OmsOrderReturnApplyResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/OmsReceiverInfoParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/OmsReturnApplyQueryParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/OmsUpdateStatusParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/OssCallbackParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/OssCallbackResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/OssPolicyResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/PmsBrandParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/PmsProductAttributeCategoryItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/PmsProductAttributeParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/PmsProductCategoryParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/PmsProductCategoryWithChildrenItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/PmsProductParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/PmsProductQueryParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/PmsProductResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/ProductAttrInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/SmsCouponParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/SmsFlashPromotionProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/SmsFlashPromotionSessionDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/UmsAdminLoginParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/UmsAdminParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/UmsMenuNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/dto/UpdateAdminPasswordParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/CmsPrefrenceAreaService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/CmsSubjectService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/OmsCompanyAddressService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/OmsOrderReturnApplyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/OmsOrderReturnReasonService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/OmsOrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/OmsOrderSettingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/OssService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/PmsBrandService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/PmsProductAttributeCategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/PmsProductAttributeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/PmsProductCategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/PmsProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/PmsSkuStockService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/SmsCouponHistoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/SmsCouponService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/SmsFlashPromotionProductRelationService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/SmsFlashPromotionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/SmsFlashPromotionSessionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/SmsHomeAdvertiseService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/SmsHomeBrandService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/SmsHomeNewProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/SmsHomeRecommendProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/SmsHomeRecommendSubjectService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/UmsAdminCacheService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/UmsAdminService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/UmsMemberLevelService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/UmsMenuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/UmsResourceCategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/UmsResourceService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/UmsRoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/CmsPrefrenceAreaServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/CmsSubjectServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/OmsCompanyAddressServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/OmsOrderReturnApplyServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/OmsOrderReturnReasonServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/OmsOrderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/OmsOrderSettingServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/OssServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/PmsBrandServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/PmsProductAttributeCategoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/PmsProductAttributeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/PmsProductCategoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/PmsProductServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/PmsSkuStockServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/SmsCouponHistoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/SmsCouponServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/SmsFlashPromotionProductRelationServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/SmsFlashPromotionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/SmsFlashPromotionSessionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/SmsHomeAdvertiseServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/SmsHomeBrandServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/SmsHomeNewProductServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/SmsHomeRecommendProductServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/SmsHomeRecommendSubjectServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/UmsAdminCacheServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/UmsAdminServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/UmsMemberLevelServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/UmsMenuServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/UmsResourceCategoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/UmsResourceServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/service/impl/UmsRoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/validator/FlagValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/com/macro/mall/validator/FlagValidatorClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/CmsPrefrenceAreaProductRelationDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/CmsSubjectProductRelationDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/OmsOrderDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/OmsOrderOperateHistoryDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/OmsOrderReturnApplyDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/PmsMemberPriceDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/PmsProductAttributeCategoryDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/PmsProductAttributeDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/PmsProductAttributeValueDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/PmsProductCategoryAttributeRelationDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/PmsProductCategoryDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/PmsProductDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/PmsProductFullReductionDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/PmsProductLadderDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/PmsProductVertifyRecordDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/PmsSkuStockDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/SmsCouponDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/SmsCouponProductCategoryRelationDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/SmsCouponProductRelationDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/SmsFlashPromotionProductRelationDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/UmsAdminRoleRelationDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-admin/target/classes/dao/UmsRoleDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/mall-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/api/CommonPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/api/CommonResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/api/IErrorCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/api/ResultCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/config/BaseRedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/config/BaseSwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/domain/SwaggerProperties$SwaggerPropertiesBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/domain/SwaggerProperties.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/domain/WebLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/exception/ApiException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/exception/Asserts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/exception/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/log/WebLogAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/service/RedisService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/service/impl/RedisServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/com/macro/mall/common/util/RequestUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common/target/classes/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/mall-demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/MallDemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/bo/AdminUserDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/config/MyBatisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/config/RestTemplateConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/config/SecurityConfig$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/controller/DemoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/controller/RestTemplateDemoController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/dto/PmsBrandDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/service/DemoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/service/impl/DemoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/validator/FlagValidator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/com/macro/mall/demo/validator/FlagValidatorClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/classes/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-demo/target/test-classes/com/macro/mall/MallDemoApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/mall-mbg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/CommentGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/Generator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsHelpCategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsHelpCategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsHelpMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsHelpMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsMemberReportMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsMemberReportMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsPrefrenceAreaMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsPrefrenceAreaMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsPrefrenceAreaProductRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsPrefrenceAreaProductRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsSubjectCategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsSubjectCategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsSubjectCommentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsSubjectCommentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsSubjectMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsSubjectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsSubjectProductRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsSubjectProductRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsTopicCategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsTopicCategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsTopicCommentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsTopicCommentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsTopicMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/CmsTopicMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsCartItemMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsCartItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsCompanyAddressMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsCompanyAddressMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsOrderItemMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsOrderItemMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsOrderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsOrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsOrderOperateHistoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsOrderOperateHistoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsOrderReturnApplyMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsOrderReturnApplyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsOrderReturnReasonMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsOrderReturnReasonMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsOrderSettingMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/OmsOrderSettingMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsAlbumMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsAlbumMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsAlbumPicMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsAlbumPicMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsBrandMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsBrandMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsCommentMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsCommentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsCommentReplayMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsCommentReplayMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsFeightTemplateMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsFeightTemplateMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsMemberPriceMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsMemberPriceMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductAttributeCategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductAttributeCategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductAttributeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductAttributeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductAttributeValueMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductAttributeValueMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductCategoryAttributeRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductCategoryAttributeRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductCategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductCategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductFullReductionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductFullReductionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductLadderMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductLadderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductOperateLogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductOperateLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductVertifyRecordMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsProductVertifyRecordMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsSkuStockMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/PmsSkuStockMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsCouponHistoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsCouponHistoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsCouponMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsCouponMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsCouponProductCategoryRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsCouponProductCategoryRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsCouponProductRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsCouponProductRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsFlashPromotionLogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsFlashPromotionLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsFlashPromotionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsFlashPromotionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsFlashPromotionProductRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsFlashPromotionProductRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsFlashPromotionSessionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsFlashPromotionSessionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsHomeAdvertiseMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsHomeAdvertiseMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsHomeBrandMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsHomeBrandMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsHomeNewProductMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsHomeNewProductMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsHomeRecommendProductMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsHomeRecommendProductMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsHomeRecommendSubjectMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/SmsHomeRecommendSubjectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsAdminLoginLogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsAdminLoginLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsAdminMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsAdminMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsAdminPermissionRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsAdminPermissionRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsAdminRoleRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsAdminRoleRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsGrowthChangeHistoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsGrowthChangeHistoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsIntegrationChangeHistoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsIntegrationChangeHistoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsIntegrationConsumeSettingMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsIntegrationConsumeSettingMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberLevelMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberLevelMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberLoginLogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberLoginLogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberMemberTagRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberMemberTagRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberProductCategoryRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberProductCategoryRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberReceiveAddressMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberReceiveAddressMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberRuleSettingMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberRuleSettingMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberStatisticsInfoMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberStatisticsInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberTagMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberTagMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberTaskMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMemberTaskMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMenuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsPermissionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsPermissionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsResourceCategoryMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsResourceCategoryMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsResourceMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsResourceMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsRoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsRoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsRoleMenuRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsRoleMenuRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsRolePermissionRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsRolePermissionRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsRoleResourceRelationMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/mapper/UmsRoleResourceRelationMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsHelp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsHelpCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsHelpCategoryExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsHelpCategoryExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsHelpCategoryExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsHelpCategoryExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsHelpExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsHelpExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsHelpExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsHelpExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsMemberReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsMemberReportExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsMemberReportExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsMemberReportExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsMemberReportExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsPrefrenceArea.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsPrefrenceAreaExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsPrefrenceAreaExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsPrefrenceAreaExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsPrefrenceAreaExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsPrefrenceAreaProductRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsPrefrenceAreaProductRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsPrefrenceAreaProductRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsPrefrenceAreaProductRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsPrefrenceAreaProductRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectCategoryExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectCategoryExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectCategoryExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectCategoryExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectComment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectCommentExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectCommentExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectCommentExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectCommentExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectProductRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectProductRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectProductRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectProductRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsSubjectProductRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicCategoryExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicCategoryExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicCategoryExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicCategoryExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicComment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicCommentExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicCommentExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicCommentExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicCommentExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/CmsTopicExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsCartItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsCartItemExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsCartItemExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsCartItemExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsCartItemExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsCompanyAddress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsCompanyAddressExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsCompanyAddressExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsCompanyAddressExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsCompanyAddressExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderItemExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderItemExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderItemExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderItemExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderOperateHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderOperateHistoryExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderOperateHistoryExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderOperateHistoryExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderOperateHistoryExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderReturnApply.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderReturnApplyExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderReturnApplyExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderReturnApplyExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderReturnApplyExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderReturnReason.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderReturnReasonExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderReturnReasonExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderReturnReasonExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderReturnReasonExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderSetting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderSettingExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderSettingExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderSettingExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/OmsOrderSettingExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsAlbum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsAlbumExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsAlbumExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsAlbumExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsAlbumExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsAlbumPic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsAlbumPicExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsAlbumPicExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsAlbumPicExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsAlbumPicExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsBrand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsBrandExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsBrandExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsBrandExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsBrandExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsComment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsCommentExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsCommentExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsCommentExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsCommentExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsCommentReplay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsCommentReplayExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsCommentReplayExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsCommentReplayExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsCommentReplayExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsFeightTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsFeightTemplateExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsFeightTemplateExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsFeightTemplateExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsFeightTemplateExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsMemberPrice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsMemberPriceExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsMemberPriceExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsMemberPriceExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsMemberPriceExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttribute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeCategoryExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeCategoryExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeCategoryExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeCategoryExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeValueExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeValueExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeValueExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductAttributeValueExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductCategoryAttributeRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductCategoryAttributeRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductCategoryAttributeRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductCategoryAttributeRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductCategoryAttributeRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductCategoryExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductCategoryExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductCategoryExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductCategoryExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductFullReduction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductFullReductionExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductFullReductionExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductFullReductionExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductFullReductionExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductLadder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductLadderExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductLadderExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductLadderExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductLadderExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductOperateLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductOperateLogExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductOperateLogExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductOperateLogExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductOperateLogExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductVertifyRecord.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductVertifyRecordExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductVertifyRecordExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductVertifyRecordExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsProductVertifyRecordExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsSkuStock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsSkuStockExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsSkuStockExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsSkuStockExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/PmsSkuStockExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCoupon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponHistoryExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponHistoryExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponHistoryExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponHistoryExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponProductCategoryRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponProductCategoryRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponProductCategoryRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponProductCategoryRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponProductCategoryRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponProductRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponProductRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponProductRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponProductRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsCouponProductRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionLogExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionLogExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionLogExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionLogExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionProductRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionProductRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionProductRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionProductRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionProductRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionSession.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionSessionExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionSessionExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionSessionExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsFlashPromotionSessionExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeAdvertise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeAdvertiseExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeAdvertiseExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeAdvertiseExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeAdvertiseExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeBrand.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeBrandExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeBrandExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeBrandExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeBrandExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeNewProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeNewProductExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeNewProductExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeNewProductExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeNewProductExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeRecommendProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeRecommendProductExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeRecommendProductExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeRecommendProductExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeRecommendProductExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeRecommendSubject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeRecommendSubjectExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeRecommendSubjectExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeRecommendSubjectExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/SmsHomeRecommendSubjectExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdmin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminLoginLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminLoginLogExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminLoginLogExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminLoginLogExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminLoginLogExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminPermissionRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminPermissionRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminPermissionRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminPermissionRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminPermissionRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminRoleRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminRoleRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminRoleRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminRoleRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsAdminRoleRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsGrowthChangeHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsGrowthChangeHistoryExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsGrowthChangeHistoryExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsGrowthChangeHistoryExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsGrowthChangeHistoryExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsIntegrationChangeHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsIntegrationChangeHistoryExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsIntegrationChangeHistoryExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsIntegrationChangeHistoryExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsIntegrationChangeHistoryExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsIntegrationConsumeSetting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsIntegrationConsumeSettingExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsIntegrationConsumeSettingExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsIntegrationConsumeSettingExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsIntegrationConsumeSettingExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMember.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberLevel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberLevelExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberLevelExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberLevelExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberLevelExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberLoginLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberLoginLogExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberLoginLogExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberLoginLogExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberLoginLogExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberMemberTagRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberMemberTagRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberMemberTagRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberMemberTagRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberMemberTagRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberProductCategoryRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberProductCategoryRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberProductCategoryRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberProductCategoryRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberProductCategoryRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberReceiveAddress.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberReceiveAddressExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberReceiveAddressExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberReceiveAddressExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberReceiveAddressExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberRuleSetting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberRuleSettingExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberRuleSettingExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberRuleSettingExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberRuleSettingExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberStatisticsInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberStatisticsInfoExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberStatisticsInfoExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberStatisticsInfoExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberStatisticsInfoExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberTag.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberTagExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberTagExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberTagExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberTagExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberTaskExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberTaskExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberTaskExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMemberTaskExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMenuExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMenuExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMenuExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsMenuExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsPermission.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsPermissionExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsPermissionExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsPermissionExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsPermissionExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsResource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsResourceCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsResourceCategoryExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsResourceCategoryExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsResourceCategoryExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsResourceCategoryExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsResourceExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsResourceExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsResourceExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsResourceExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleMenuRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleMenuRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleMenuRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleMenuRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleMenuRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRolePermissionRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRolePermissionRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRolePermissionRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRolePermissionRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRolePermissionRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleResourceRelation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleResourceRelationExample$Criteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleResourceRelationExample$Criterion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleResourceRelationExample$GeneratedCriteria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/com/macro/mall/model/UmsRoleResourceRelationExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/generator.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-mbg/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/mall-portal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/MallPortalApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/component/CancelOrderReceiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/component/CancelOrderSender$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/component/CancelOrderSender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/component/OrderTimeOutCancelTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/config/GlobalCorsConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/config/JacksonConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/config/MallSecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/config/MyBatisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/config/RabbitMqConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/config/SpringTaskConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/controller/MemberAttentionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/controller/MemberProductCollectionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/controller/MemberReadHistoryController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/controller/OmsCartItemController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/controller/OmsPortalOrderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/controller/OmsPortalOrderReturnApplyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/controller/PmsPortalProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/controller/PortalBrandController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/controller/UmsMemberController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/controller/UmsMemberCouponController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/controller/UmsMemberReceiveAddressController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/dao/HomeDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/dao/PortalOrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/dao/PortalOrderItemDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/dao/PortalProductDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/dao/SmsCouponHistoryDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/CartProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/CartPromotionItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/ConfirmOrderResult$CalcAmount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/ConfirmOrderResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/FlashPromotionProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/HomeContentResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/HomeFlashPromotion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/MemberBrandAttention.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/MemberDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/MemberProductCollection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/MemberReadHistory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/OmsOrderDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/OmsOrderReturnApplyParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/OrderParam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/PmsPortalProductDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/PmsProductCategoryNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/PromotionProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/QueueEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/domain/SmsCouponHistoryDetail.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/repository/MemberBrandAttentionRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/repository/MemberProductCollectionRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/repository/MemberReadHistoryRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/HomeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/MemberAttentionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/MemberCollectionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/MemberReadHistoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/OmsCartItemService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/OmsPortalOrderReturnApplyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/OmsPortalOrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/OmsPromotionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/PmsPortalProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/PortalBrandService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/UmsMemberCacheService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/UmsMemberCouponService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/UmsMemberReceiveAddressService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/UmsMemberService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/HomeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/MemberAttentionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/MemberCollectionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/MemberReadHistoryServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/OmsCartItemServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/OmsPortalOrderReturnApplyServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/OmsPortalOrderServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/OmsPromotionServiceImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/OmsPromotionServiceImpl$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/OmsPromotionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/PmsPortalProductServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/PortalBrandServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/UmsMemberCacheServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/UmsMemberCouponServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/UmsMemberReceiveAddressServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/service/impl/UmsMemberServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/com/macro/mall/portal/util/DateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/dao/HomeDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/dao/PortalOrderDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/dao/PortalOrderItemDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/dao/PortalProductDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/classes/dao/SmsCouponHistoryDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/test-classes/com/macro/mall/portal/MallPortalApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-portal/target/test-classes/com/macro/mall/portal/PortalProductDaoTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/mall-search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/com/macro/mall/search/MallSearchApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/com/macro/mall/search/config/MyBatisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/com/macro/mall/search/config/SwaggerConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/com/macro/mall/search/controller/EsProductController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/com/macro/mall/search/dao/EsProductDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/com/macro/mall/search/domain/EsProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/com/macro/mall/search/domain/EsProductAttributeValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/com/macro/mall/search/domain/EsProductRelatedInfo$ProductAttr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/com/macro/mall/search/domain/EsProductRelatedInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/com/macro/mall/search/repository/EsProductRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/com/macro/mall/search/service/EsProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/com/macro/mall/search/service/impl/EsProductServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/classes/dao/EsProductDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-search/target/test-classes/com/macro/mall/search/MallSearchApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/mall-security.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/annotation/CacheException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/aspect/RedisCacheAspect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/component/DynamicAccessDecisionManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/component/DynamicSecurityFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/component/DynamicSecurityMetadataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/component/DynamicSecurityService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/component/JwtAuthenticationTokenFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/component/RestAuthenticationEntryPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/component/RestfulAccessDeniedHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/config/IgnoreUrlsConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/config/RedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/config/SecurityConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/util/JwtTokenUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-security/target/classes/com/macro/mall/security/util/SpringUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-admin/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-admin/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-search/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-search/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mall-search/src/main/resources/application-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/mall-search/src/main/resources/application-prod.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l2rKzbcxzQwFjLFXFL0lcrgsm0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.MallSearchApplication">
+    <configuration name="MallAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.MallAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.demo.MallDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallPortalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-portal" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.portal.MallPortalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.macro.mall.search.MallSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3debf790-25f0-44e4-ac7e-78042edff0df" name="Default Changelist" comment="" />
+      <created>1606805966542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606805966542</updated>
+      <workItem from="1606805973497" duration="1650000" />
+      <workItem from="1606808113630" duration="523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1606808290262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606808290262" />
+    <state width="1493" height="133" key="GridCell.Tab.0.bottom" timestamp="1606806855267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806855267" />
+    <state width="1493" height="133" key="GridCell.Tab.0.center" timestamp="1606806855267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806855267" />
+    <state width="1493" height="133" key="GridCell.Tab.0.left" timestamp="1606806855267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806855267" />
+    <state width="1493" height="133" key="GridCell.Tab.0.right" timestamp="1606806855267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806855267" />
+    <state width="1493" height="133" key="GridCell.Tab.1.bottom" timestamp="1606806855268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806855268" />
+    <state width="1493" height="133" key="GridCell.Tab.1.center" timestamp="1606806855268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806855268" />
+    <state width="1493" height="133" key="GridCell.Tab.1.left" timestamp="1606806855267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806855267" />
+    <state width="1493" height="133" key="GridCell.Tab.1.right" timestamp="1606806855268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806855268" />
+    <state width="1493" height="133" key="GridCell.Tab.2.bottom" timestamp="1606806855268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806855268" />
+    <state width="1493" height="133" key="GridCell.Tab.2.center" timestamp="1606806855268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806855268" />
+    <state width="1493" height="133" key="GridCell.Tab.2.left" timestamp="1606806855268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806855268" />
+    <state width="1493" height="133" key="GridCell.Tab.2.right" timestamp="1606806855268">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="133" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806855268" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1606808592069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606808592069" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606806693020">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1606806693020" />
+  </component>
+</project>
